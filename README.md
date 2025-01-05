@@ -229,3 +229,4 @@ Our view on unbiased research claims:
 <p align="right">
   <a href="#top">⬆️ Back to Top</a>
 </p>
+# crypto_report_researcher
